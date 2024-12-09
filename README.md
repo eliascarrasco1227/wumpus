@@ -12,5 +12,5 @@ models folder and copying the contents
 of the wumpus2.gaml file into a new gama project.
 
 ## In simiulation picture:
-![alt text](https://github.com/eliascarrasco1227/wumpus/blob/main/execution%20pictures%20and%20videos/end_of_the_game_picture.png)
+![simiulation picture of multiagent system with a 25x25 grid with wumpus, pits and players.](https://github.com/eliascarrasco1227/wumpus/blob/main/execution%20pictures%20and%20videos/end_of_the_game_picture.png)
 
